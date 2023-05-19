@@ -1,0 +1,28 @@
+# ALIASES
+# list
+alias ll="ls -l"
+
+# git
+alias gs="git status"
+alias gco="git checkout"
+alias gnb="gin checkout -b"
+alias gal="git add ."
+alias g="git"
+
+# others
+alias mv="mv -i" # no pisa archivo
+alias py="python3"
+alias b="bash"
+alias v="vim"
+alias nv="nvim"
+
+# directory
+alias d="cd ~/Dropbox"
+alias cy="cd ~/Dropbox/cyborg"
+
+# Navigating
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
