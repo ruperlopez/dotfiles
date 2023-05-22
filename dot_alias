@@ -20,6 +20,9 @@ alias nv="nvim"
 alias d="cd ~/Dropbox"
 alias cy="cd ~/Dropbox/cyborg"
 
+# Quick notes
+alias comandos="nvim ~/dropbox/cyborg/md/comandos.md"
+
 # Navigating
 alias ..="cd .."
 alias ...="cd ../.."
